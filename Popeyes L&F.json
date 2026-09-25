@@ -299,6 +299,7 @@
       "url_loader": "https://raw.githubusercontent.com/Ceron0503/Popeyes-L-F-/refs/heads/main/popeyes-loader.json",
       "url_idle": "https://raw.githubusercontent.com/Ceron0503/Popeyes-L-F-/refs/heads/main/popeyes-idle.json",
       "url_approve": "https://raw.githubusercontent.com/Ceron0503/Popeyes-L-F-/refs/heads/main/popeyes_aprobada.json",
+      "url_denied": "https://raw.githubusercontent.com/Ceron0503/Popeyes-L-F-/refs/heads/main/popeyes-denied.json",
       "enable": true
     },
     {
@@ -310,6 +311,7 @@
       "url_loader": "https://raw.githubusercontent.com/Ceron0503/Popeyes-L-F-/refs/heads/main/popeyes-loader.json",
       "url_idle": "https://raw.githubusercontent.com/Ceron0503/Popeyes-L-F-/refs/heads/main/popeyes-idle.json",
       "url_approve": "https://raw.githubusercontent.com/Ceron0503/Popeyes-L-F-/refs/heads/main/popeyes_aprobada.json",
+      "url_denied": "https://raw.githubusercontent.com/Ceron0503/Popeyes-L-F-/refs/heads/main/popeyes-denied.json",
       "enable": true
     },
         {
@@ -321,6 +323,7 @@
       "url_loader": "https://raw.githubusercontent.com/Ceron0503/Popeyes-L-F-/refs/heads/main/popeyes-loader.json",
       "url_idle": "https://raw.githubusercontent.com/Ceron0503/Popeyes-L-F-/refs/heads/main/popeyes-idle.json",
       "url_approve": "https://raw.githubusercontent.com/Ceron0503/Popeyes-L-F-/refs/heads/main/popeyes_aprobada.json",
+      "url_denied": "https://raw.githubusercontent.com/Ceron0503/Popeyes-L-F-/refs/heads/main/popeyes-denied.json",
       "enable": true
     },
     {
@@ -332,6 +335,7 @@
       "url_loader": "https://raw.githubusercontent.com/Ceron0503/Popeyes-L-F-/refs/heads/main/popeyes-loader.json",
       "url_idle": "https://raw.githubusercontent.com/Ceron0503/Popeyes-L-F-/refs/heads/main/popeyes-idle.json",
       "url_approve": "https://raw.githubusercontent.com/Ceron0503/Popeyes-L-F-/refs/heads/main/popeyes_aprobada.json",
+      "url_denied": "https://raw.githubusercontent.com/Ceron0503/Popeyes-L-F-/refs/heads/main/popeyes-denied.json",
       "enable": true
     }
   ],
