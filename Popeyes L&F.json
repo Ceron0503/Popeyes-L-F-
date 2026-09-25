@@ -272,7 +272,7 @@
     {
       "item": "image_toolbar_name",
       "value": "image_toolbar",
-      "url": "https://raw.githubusercontent.com/Ceron0503/L-F-BBajio/refs/heads/main/Logo_BanBajio_Horizontal%20(fondo).png",
+      "url": "https://raw.githubusercontent.com/Ceron0503/Popeyes-L-F-/refs/heads/main/22PLK_LOGO%20(Famous%20Louisiana%20Chicken)_RBI%20Design-02.png",
       "enable": true
     },
     {
@@ -291,56 +291,12 @@
   "custom_animations_enable": true,
   "custom_animations": [
     {
-      "item": "animation_dx8000",
-      "value": "",
-      "url_report": "",
-      "url_insert": "https://raw.githubusercontent.com/Ceron0503/L-F-BAJIO-RENEWED/refs/heads/main/insert_slide_approach_ing%20DX8000_banbajio.json",
-      "url_remove": "",
-      "url_loader": "https://raw.githubusercontent.com/Ceron0503/L-F-BBajio/refs/heads/main/loader_banbajio_v2.json",
-      "url_idle": "",
-      "url_approve": "",
-      "enable": true
-    },
-    {
-      "item": "animation_dx4000",
-      "value": "",
-      "url_report": "",
-      "url_insert": "https://raw.githubusercontent.com/Ceron0503/L-F-BAJIO-RENEWED/refs/heads/main/insert_slide_approach_ing%20DX8000_banbajio.json",
-      "url_remove": "",
-      "url_loader": "https://raw.githubusercontent.com/Ceron0503/L-F-BBajio/refs/heads/main/loader_banbajio_v2.json",
-      "url_idle": "",
-      "url_approve": "",
-      "enable": true
-    },
-    {
-      "item": "animation_dx6000",
-      "value": "",
-      "url_report": "",
-      "url_insert": "https://raw.githubusercontent.com/Ceron0503/L-F-BAJIO-RENEWED/refs/heads/main/insert_slide_approach_ing%20DX6000_banbajio.json",
-      "url_remove": "",
-      "url_loader": "https://raw.githubusercontent.com/Ceron0503/L-F-BBajio/refs/heads/main/loader_banbajio_v2.json",
-      "url_idle": "",
-      "url_approve": "",
-      "enable": true
-    },
-    {
-      "item": "animation_ex6000",
-      "value": "",
-      "url_report": "",
-      "url_insert": "https://raw.githubusercontent.com/Ceron0503/L-F-BAJIO-RENEWED/refs/heads/main/insert_slide_approach_ing%20EX6000_banbajio.json",
-      "url_remove": "",
-      "url_loader": "https://raw.githubusercontent.com/Ceron0503/L-F-BBajio/refs/heads/main/loader_banbajio_v2.json",
-      "url_idle": "",
-      "url_approve": "",
-      "enable": true
-    },
-    {
       "item": "animation_s1p2",
       "value": "",
       "url_report": "",
       "url_insert": "",
       "url_remove": "",
-      "url_loader": "https://raw.githubusercontent.com/Ceron0503/L-F-BBajio/refs/heads/main/loader_banbajio_v2.json",
+      "url_loader": "",
       "url_idle": "",
       "url_approve": "",
       "enable": true
@@ -351,7 +307,29 @@
       "url_report": "",
       "url_insert": "",
       "url_remove": "",
-      "url_loader": "https://raw.githubusercontent.com/Ceron0503/L-F-BBajio/refs/heads/main/loader_banbajio_v2.json",
+      "url_loader": "",
+      "url_idle": "",
+      "url_approve": "",
+      "enable": true
+    },
+        {
+      "item": "animation_s1e4_pro",
+      "value": "",
+      "url_report": "",
+      "url_insert": "",
+      "url_remove": "",
+      "url_loader": "",
+      "url_idle": "",
+      "url_approve": "",
+      "enable": true
+    },
+    {
+      "item": "animation_s2l",
+      "value": "",
+      "url_report": "",
+      "url_insert": "",
+      "url_remove": "",
+      "url_loader": "",
       "url_idle": "",
       "url_approve": "",
       "enable": true
@@ -378,7 +356,7 @@
       "enable": true
     },
     {
-      "item": "sound_e4_pro",
+      "item": "sound_s1e4_pro",
       "value": "",
       "url_approve": "",
       "url_init": "",
