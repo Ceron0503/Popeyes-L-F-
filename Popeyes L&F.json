@@ -298,7 +298,7 @@
       "url_remove": "",
       "url_loader": "https://raw.githubusercontent.com/Ceron0503/Popeyes-L-F-/refs/heads/main/popeyes-loader.json",
       "url_idle": "https://raw.githubusercontent.com/Ceron0503/Popeyes-L-F-/refs/heads/main/popeyes-idle.json",
-      "url_approve": "",
+      "url_approve": "https://raw.githubusercontent.com/Ceron0503/Popeyes-L-F-/refs/heads/main/popeyes_aprobada.json",
       "enable": true
     },
     {
@@ -309,7 +309,7 @@
       "url_remove": "",
       "url_loader": "https://raw.githubusercontent.com/Ceron0503/Popeyes-L-F-/refs/heads/main/popeyes-loader.json",
       "url_idle": "https://raw.githubusercontent.com/Ceron0503/Popeyes-L-F-/refs/heads/main/popeyes-idle.json",
-      "url_approve": "",
+      "url_approve": "https://raw.githubusercontent.com/Ceron0503/Popeyes-L-F-/refs/heads/main/popeyes_aprobada.json",
       "enable": true
     },
         {
@@ -320,7 +320,7 @@
       "url_remove": "",
       "url_loader": "https://raw.githubusercontent.com/Ceron0503/Popeyes-L-F-/refs/heads/main/popeyes-loader.json",
       "url_idle": "https://raw.githubusercontent.com/Ceron0503/Popeyes-L-F-/refs/heads/main/popeyes-idle.json",
-      "url_approve": "",
+      "url_approve": "https://raw.githubusercontent.com/Ceron0503/Popeyes-L-F-/refs/heads/main/popeyes_aprobada.json",
       "enable": true
     },
     {
@@ -331,7 +331,7 @@
       "url_remove": "",
       "url_loader": "https://raw.githubusercontent.com/Ceron0503/Popeyes-L-F-/refs/heads/main/popeyes-loader.json",
       "url_idle": "https://raw.githubusercontent.com/Ceron0503/Popeyes-L-F-/refs/heads/main/popeyes-idle.json",
-      "url_approve": "",
+      "url_approve": "https://raw.githubusercontent.com/Ceron0503/Popeyes-L-F-/refs/heads/main/popeyes_aprobada.json",
       "enable": true
     }
   ],
@@ -340,7 +340,7 @@
     {
       "item": "sound_s1f4",
       "value": "",
-      "url_approve": "",
+      "url_approve": "https://github.com/Ceron0503/Popeyes-L-F-/raw/refs/heads/main/popeyes_approve.wav",
       "url_init": "",
       "url_remove": "",
       "url_denied": "",
@@ -349,7 +349,7 @@
     {
       "item": "sound_s1p2",
       "value": "",
-      "url_approve": "",
+      "url_approve": "https://github.com/Ceron0503/Popeyes-L-F-/raw/refs/heads/main/popeyes_approve.wav",
       "url_init": "",
       "url_remove": "",
       "url_denied": "",
@@ -358,7 +358,7 @@
     {
       "item": "sound_s1e4_pro",
       "value": "",
-      "url_approve": "",
+      "url_approve": "https://github.com/Ceron0503/Popeyes-L-F-/raw/refs/heads/main/popeyes_approve.wav",
       "url_init": "",
       "url_remove": "",
       "url_denied": "",
@@ -367,7 +367,7 @@
     {
       "item": "sound_s1f4_pro",
       "value": "",
-      "url_approve": "",
+      "url_approve": "https://github.com/Ceron0503/Popeyes-L-F-/raw/refs/heads/main/popeyes_approve.wav",
       "url_init": "",
       "url_remove": "",
       "url_denied": "",
